@@ -12,6 +12,8 @@ export default function Home() {
       </Head>
 
       Homepage
+
+      About us
     </div>
   )
 }
